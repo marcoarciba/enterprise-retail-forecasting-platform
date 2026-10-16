@@ -65,6 +65,20 @@ assets/solution_architecture.png
 
 ## Key Capabilities
 
+## Dashboard Examples
+
+### Store-Level Forecasting Dashboard
+
+assets/store_forecasting_dashboard.png
+
+*Executive dashboard used for store-level forecasting and planning. Commercial information has been anonymized.*
+
+### Product Group Forecasting Dashboard
+
+assets/product_group_forecasting_dashboard.png
+
+*Category-level forecasting dashboard supporting inventory and commercial planning decisions. Commercial information has been anonymized.*
+
 ### Sales Forecasting
 
 Retail demand forecasting at store and product-group levels using machine learning methodologies.
@@ -81,6 +95,13 @@ Interactive Power BI dashboards designed for commercial planning, budgeting, and
 
 Incorporation of seasonality, holiday adjustments, growth assumptions, and operational constraints into forecasting outputs.
 
+## Validation Approach
+
+Forecast performance was evaluated through operational comparison against actual sales results as new periods became available.
+
+Forecast outputs were incorporated into inventory planning, commercial budgeting, and store expansion processes through executive dashboards and operational reviews.
+
+Due to confidentiality constraints, historical evaluation reports and proprietary performance metrics are not included in this public portfolio version.
 ---
 
 ## Confidentiality Notice
@@ -107,6 +128,17 @@ All sensitive information has been removed or anonymized, including:
 - Inventory optimization models
 - Forecast monitoring and alerting
 
+## Project Highlights
+
+- End-to-end forecasting platform
+- SAP HANA integration
+- Automated ETL processes
+- Machine learning forecasting models
+- Product group demand forecasting
+- Store-level forecasting
+- New store planning through Mirror Store methodology
+- Executive Power BI dashboards
+- Commercial and financial planning support
 ---
 
 ## Author
