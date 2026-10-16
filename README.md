@@ -2,6 +2,7 @@
 
 Enterprise analytics solution designed to support sales forecasting, inventory planning, budgeting, and store expansion decisions through machine learning and business-driven forecasting methodologies.
 
+**Data Engineering + Forecasting + Business Intelligence + Retail Planning**
 ---
 
 ## Executive Summary
@@ -45,7 +46,7 @@ The platform enabled:
 
 ## Solution Architecture
 
-assets/solution_architecture.png
+assets/solution_architecture.png `
 
 *End-to-end retail forecasting platform combining ERP data, machine learning, business rules, and executive dashboards to support planning, budgeting, inventory, and expansion decisions.*
 
@@ -75,8 +76,7 @@ assets/store_forecasting_dashboard.png
 
 ### Product Group Forecasting Dashboard
 
-assets/product_group_forecasting_dashboard.png
-
+!ssets/product_group_forecasting_dashboard.png
 *Category-level forecasting dashboard supporting inventory and commercial planning decisions. Commercial information has been anonymized.*
 
 ### Sales Forecasting
@@ -103,7 +103,18 @@ Forecast outputs were incorporated into inventory planning, commercial budgeting
 
 Due to confidentiality constraints, historical evaluation reports and proprietary performance metrics are not included in this public portfolio version.
 ---
+## Project Highlights
 
+- End-to-end forecasting platform
+- SAP HANA integration
+- Automated ETL processes
+- Machine learning forecasting models
+- Product group demand forecasting
+- Store-level forecasting
+- New store planning through Mirror Store methodology
+- Executive Power BI dashboards
+- Commercial and financial planning support
+  
 ## Confidentiality Notice
 
 This repository is a portfolio version of a real-world enterprise forecasting solution.
@@ -128,17 +139,6 @@ All sensitive information has been removed or anonymized, including:
 - Inventory optimization models
 - Forecast monitoring and alerting
 
-## Project Highlights
-
-- End-to-end forecasting platform
-- SAP HANA integration
-- Automated ETL processes
-- Machine learning forecasting models
-- Product group demand forecasting
-- Store-level forecasting
-- New store planning through Mirror Store methodology
-- Executive Power BI dashboards
-- Commercial and financial planning support
 ---
 
 ## Author
