@@ -45,33 +45,9 @@ The platform enabled:
 
 ## Solution Architecture
 
-```text
-SAP HANA ERP
-      │
-      ▼
- Automated Data Extraction
-      │
-      ▼
-  ETL & Data Preparation
-      │
-      ▼
- Feature Engineering
-      │
-      ▼
- Forecasting Models
-      │
-      ▼
- Business Rules Engine
-      │
-      ▼
- Forecast Outputs
-      │
-      ▼
- Power BI Dashboards
-      │
-      ▼
- Commercial Decision Making
-```
+assets/solution_architecture.png
+
+*End-to-end retail forecasting platform combining ERP data, machine learning, business rules, and executive dashboards to support planning, budgeting, inventory, and expansion decisions.*
 
 ## Technologies
 
