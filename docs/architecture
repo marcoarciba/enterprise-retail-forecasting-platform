@@ -1,1 +1,57 @@
+# Solution Architecture
 
+## Business Workflow
+
+```text
+SAP HANA ERP
+      │
+      ▼
+Data Extraction Layer
+      │
+      ▼
+Data Consolidation & ETL
+      │
+      ▼
+Feature Engineering
+      │
+      ▼
+Forecasting Engine
+      │
+      ├── Store-Level Forecasting
+      │
+      ├── Product Group Forecasting
+      │
+      └── Mirror Store Forecasting
+      ▼
+Business Rules Engine
+      │
+      ▼
+Forecast Outputs
+      │
+      ▼
+Power BI Dashboards
+      │
+      ▼
+Commercial Planning
+Inventory Planning
+Budgeting
+Store Expansion Decisions
+```
+
+## Core Capabilities
+
+### Sales Forecasting
+
+Forecasting future sales using historical transactional data and machine learning methodologies.
+
+### Store Expansion Planning
+
+Mirror Store methodology for estimating expected performance of new retail locations.
+
+### Product Group Analytics
+
+Demand forecasting at category level to support operational planning.
+
+### Executive Dashboards
+
+Power BI reporting layer designed for commercial and strategic decision making.
