@@ -68,6 +68,19 @@ The platform enabled:
 
 ## Dashboard Examples
 
+## Project Scope
+
+The platform supported:
+
+- Store-level forecasting
+- Product group forecasting
+- Expansion planning scenarios
+- Commercial budgeting workflows
+- Inventory planning processes
+- Executive decision support
+
+The solution integrated transactional ERP data, machine learning forecasting models, business rules, and executive reporting into a unified planning environment.
+
 ### Store-Level Forecasting Dashboard
 
 ![Store Forecasting Dashboard](./assets/store_forecasting_dashboard.png)
