@@ -46,7 +46,7 @@ The platform enabled:
 
 ## Solution Architecture
 
-assets/solution_architecture.png `
+![Solution Architecture](assets/solution_architecture.png)
 
 *End-to-end retail forecasting platform combining ERP data, machine learning, business rules, and executive dashboards to support planning, budgeting, inventory, and expansion decisions.*
 
@@ -70,13 +70,14 @@ assets/solution_architecture.png `
 
 ### Store-Level Forecasting Dashboard
 
-assets/store_forecasting_dashboard.png
+![Store Forecasting Dashboard](./assets/store_forecasting_dashboard.png)
 
 *Executive dashboard used for store-level forecasting and planning. Commercial information has been anonymized.*
 
 ### Product Group Forecasting Dashboard
 
-!ssets/product_group_forecasting_dashboard.png
+![Product Group Forecast Dashboard](./assets/product_group_forecasting_dashboard.png)
+
 *Category-level forecasting dashboard supporting inventory and commercial planning decisions. Commercial information has been anonymized.*
 
 ### Sales Forecasting
