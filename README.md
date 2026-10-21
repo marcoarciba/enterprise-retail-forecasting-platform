@@ -109,7 +109,7 @@ Interactive Power BI dashboards designed for commercial planning, budgeting, and
 
 The platform incorporated a mirror-store methodology to estimate expected performance for new store openings and relocations.
 
-./assets/mirror_store_methodology.png
+![Mirror Store Methodology](./assets/mirror_store_methodology.png)
 
 Comparable stores were selected based on business knowledge, historical performance, and operational similarity. Forecasts were then adjusted using business assumptions and growth expectations to create an initial planning baseline.
 
@@ -139,7 +139,7 @@ Due to confidentiality constraints, historical evaluation reports and proprietar
 
 ## Business Impact
 
-./assets/business_impact.png
+![Business Impact](./assets/business_impact.png)
 
 The forecasting platform transformed traditional planning processes by providing a standardized, data-driven methodology for forecasting, inventory planning, budgeting, and store expansion decisions.
 
