@@ -105,6 +105,14 @@ Mirror Store methodology for estimating sales performance in new locations based
 
 Interactive Power BI dashboards designed for commercial planning, budgeting, and operational decision support.
 
+## Mirror Store Methodology
+
+The platform incorporated a mirror-store methodology to estimate expected performance for new store openings and relocations.
+
+./assets/mirror_store_methodology.png
+
+Comparable stores were selected based on business knowledge, historical performance, and operational similarity. Forecasts were then adjusted using business assumptions and growth expectations to create an initial planning baseline.
+
 ### Business Rules Integration
 
 Incorporation of seasonality, holiday adjustments, growth assumptions, and operational constraints into forecasting outputs.
@@ -128,7 +136,21 @@ Due to confidentiality constraints, historical evaluation reports and proprietar
 - New store planning through Mirror Store methodology
 - Executive Power BI dashboards
 - Commercial and financial planning support
-  
+
+## Business Impact
+
+./assets/business_impact.png
+
+The forecasting platform transformed traditional planning processes by providing a standardized, data-driven methodology for forecasting, inventory planning, budgeting, and store expansion decisions.
+
+Key benefits included:
+
+- Improved visibility into future sales performance
+- Better inventory allocation decisions
+- Support for commercial budgeting processes
+- Reduced reliance on manual forecasting methods
+- Standardized planning across locations
+ 
 ## Confidentiality Notice
 
 This repository is a portfolio version of a real-world enterprise forecasting solution.
